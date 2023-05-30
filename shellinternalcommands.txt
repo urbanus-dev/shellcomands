@@ -1,0 +1,14 @@
+cd-- choose directory
+pwd-- print working directory
+xdg-open . --opening the directory
+nautilus . -- --opening the directory
+ls: Lists the files and directories in the current directory.
+mkdir: Creates a new directory.
+rm: Removes files or directories.
+cp: Copies files and directories.
+mv: Moves or renames files and directories.
+cat: Concatenates and displays the contents of files.
+grep: Searches for patterns in files or output.
+chmod: Changes the permissions of files and directories.
+sudo: Executes a command with superuser/root privileges.
+wget: Downloads files from the web.
